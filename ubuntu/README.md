@@ -8,3 +8,5 @@
 sudo dpkg-reconfigure dash //`choose no`
 ### 2. install
 ./setup-18-10.sh
+### 3. complete
+source ~/.bashrc
